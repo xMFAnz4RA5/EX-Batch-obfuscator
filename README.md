@@ -1,2 +1,2 @@
-# ex-obf
+# EX obfuscator
 Batch obfuscation tool!
