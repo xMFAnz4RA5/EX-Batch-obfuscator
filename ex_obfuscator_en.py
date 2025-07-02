@@ -67,7 +67,7 @@ def main():
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(final_output)
 
-    print("Obfuscated Batch file has been outputed:", output_path)
+    print("Obfuscated Batch file has been outputted:", output_path)
     try:
         system('pause >nul')
     except:
